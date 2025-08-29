@@ -6,7 +6,7 @@
 </p>
 
 ### Skills
-
+<div align="center">
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -25,7 +25,7 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
-
+</div>
 <p align="center">
   <a href="https://ktpportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square" alt="Live Demo"/></a>
   <a href="https://github.com/KTPPUz" target="_blank"><img src="https://img.shields.io/badge/GitHub-KTPPUz-black?style=flat-square&logo=github" alt="GitHub"/></a>
