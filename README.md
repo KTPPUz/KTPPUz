@@ -99,3 +99,23 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status"/>
 </p>
 
+
+
+
+
+:fire: My Stats :
+--------------------------
+<br/>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kittipatmon&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kittipatmon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</p>
+
+## :video_game: Scripts
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
