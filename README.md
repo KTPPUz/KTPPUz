@@ -94,7 +94,7 @@
 
 </div>
 <p align="center">
-  <a href="https://ktpportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square" alt="Live Demo"/></a>
+  <a href="https://ktpportfolioz.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square" alt="Live Demo"/></a>
   <a href="https://github.com/KTPPUz" target="_blank"><img src="https://img.shields.io/badge/GitHub-KTPPUz-black?style=flat-square&logo=github" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status"/>
 </p>
